@@ -1,4 +1,49 @@
-h1 { font-family: Consolas, monaco, monospace; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; }h2 { font-family: Consolas, monaco, monospace; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; }  h3 { font-family: Consolas, monaco, monospace; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: Consolas, monaco, monospace; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: Consolas, monaco, monospace; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: Consolas, monaco, monospace; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; }
+h1 { 
+    font-family: Consolas, monaco, monospace; 
+    font-size: 28px; font-style: normal; 
+    font-variant: normal; font-weight: 700; 
+    line-height: 26.4px; 
+} 
+h2 { 
+    font-family: Consolas, monaco, monospace; 
+    font-size: 24px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 700; 
+    line-height: 15.4px; 
+    
+}  
+h3 { 
+    font-family: Consolas, monaco, monospace; 
+    font-size: 14px; font-style: normal; 
+    font-variant: normal; 
+    font-weight: 700; 
+    line-height: 15.4px; 
+} 
+p { 
+    font-family: Consolas, monaco, monospace; 
+    font-size: 17px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 400; 
+    line-height: 20px; 
+} 
+blockquote { 
+    font-family: Consolas, monaco, monospace; 
+    font-size: 21px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 400; 
+    line-height: 30px; 
+} 
+pre { 
+    font-family: Consolas, monaco, monospace; 
+    font-size: 13px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 400; 
+    line-height: 18.5714px; 
+}
 
 .Home_container__3sao- {
 	padding: 0 .5rem;
@@ -123,7 +168,7 @@ h1 { font-family: Consolas, monaco, monospace; font-size: 24px; font-style: norm
 .Home_title__28pEg {
 	margin: 0;
 	line-height: 1.15;
-	font-size: 2rem
+	font-size: 36px;
 }
 
 .Home_description__3GmI3,
