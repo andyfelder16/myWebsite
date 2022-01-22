@@ -17,21 +17,18 @@
          margin:0;
          font-family: Consolas,monaco,monospace;
       }
-      @media (prefers-color-scheme:dark){
-         html,body{
-            color-scheme:dark;
-            background:#141414;
-            color:white;
-         }
-      }
+
       </style>
-      
+      <script type="module" src="https://unpkg.com/dark-mode-toggle"></script>
+      <link rel="stylesheet" href="dark.css" media="(prefers-color-scheme: dark)"
    </head>
    <body cz-shortcut-listen="true">
+      <dark-mode-toggle mode="dark"></dark-mode-toggle>
       <div id="__next">
          <div class=" Home_container__3sao-">
             <main class=" Home_main__1Z1aG">
                <section class=" Home_intro__3xW-O">
+                  
                   <img src="./files/fotoPerfil.jpg" class=" Home_avatar__LWcjd">
                   <h1 class=" Home_title__28pEg">Andres Felder</h1>
                   <p class="">Nice to meet you!</p>
