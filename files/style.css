@@ -332,6 +332,7 @@ pre {
 	text-overflow: ellipsis
 }
 
+/*
 @media(prefers-color-scheme:dark) {
 	.Home_subtitle__3IlVB {
 		color: #ccc;
@@ -344,4 +345,4 @@ pre {
 	.Home_issue-container__3tREi .Home_issue-line__1uydt .Home_issue-snippet__2da0n {
 		color: #aaa
 	}
-}
+}*/
